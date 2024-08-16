@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.aresiel.ae2extrachannelmodes.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AddExtraChannelModes"
+  ],
+  "server": [],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
